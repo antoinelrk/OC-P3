@@ -13,4 +13,4 @@ Lien du rendu du projet: <https://booki.antoinelrk.com/> (Coming Soon)
 
 Lien du dépôt github: <https://github.com/antoinelrk/P2_Booki/>
 
-Lien du rendu du projet: <https://antoinelrk.github.io/P2_Booki/>
+Lien du rendu du projet: <https://antoinelrk.github.io/OC-P3/>
